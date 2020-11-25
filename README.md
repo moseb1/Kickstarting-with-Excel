@@ -25,11 +25,12 @@ If she plans to set her goals less than $5,000, I say go for it. Good luck, and 
 
 
 ### Challenges and Difficulties Encountered
+There are outliers in the dataset for the successful campaigns goals which ranged from $1 to $400,000.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-A successful fundraising campaign window is short. She only has May and June to wrap-up her campaign, else it's bound to fail.
+A successful fundraising campaign window is short. She only has May and June to wrap-up her campaign, else it's bound to fail. Another conclusion is that October has the highest failure rate in the year.
 
 - What can you conclude about the Outcomes based on Goals?
 She should set her goals low, like $5,000 or less in order to have a successful campaign.
@@ -37,4 +38,5 @@ She should set her goals low, like $5,000 or less in order to have a successful 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+We could've created bar charts to visualize the data as well.
 
