@@ -29,10 +29,10 @@ If she plans to set her goals less than $5,000, I say go for it. Good luck, and 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The successful fundraiing window is small. She only has May and June to wrapup here the campaign, else the her campaign is bound to fail.
+A successful fundraising campaign window is short. She only has May and June to wrap-up her campaign, else it's bound to fail.
 
 - What can you conclude about the Outcomes based on Goals?
-She should set her goals less than $5,000 to have a successful campaign 
+She should set her goals low, like $5,000 or less in order to have a successful campaign.
 
 - What are some limitations of this dataset?
 
