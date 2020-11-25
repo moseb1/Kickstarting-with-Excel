@@ -21,6 +21,8 @@ MLB playoff begins, the NFL and NBA also in progress.
 I found out smaller goals were successful. The data show goals set less than $5,000 become successful while exceeding $10,000 fail. 
 If she plans to set her goals less than $5,000, I say go for it. Good luck, and I hope this analysis is helpful.
 
+<img width="562" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/72223864/100176034-7f92c380-2e9d-11eb-8fd9-17ba76c1ca6c.png">
+
 
 ### Challenges and Difficulties Encountered
 
